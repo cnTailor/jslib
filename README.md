@@ -1,0 +1,2 @@
+# jslib
+Js standard lib
